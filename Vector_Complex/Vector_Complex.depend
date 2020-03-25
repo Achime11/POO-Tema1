@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1585154291 source:e:\valy11\programare\c++\poo\vector_complex\main.cpp
+	<iostream>
+	"complex.h"
+	"vector_complex.h"
+
+1585152023 e:\valy11\programare\c++\poo\vector_complex\include\complex.h
+	<iostream>
+
+1585152208 source:e:\valy11\programare\c++\poo\vector_complex\src\complex.cpp
+	"complex.h"
+	<iostream>
+	<math.h>
+
+1585154217 source:e:\valy11\programare\c++\poo\vector_complex\src\vector_complex.cpp
+	"complex.h"
+	"vector_complex.h"
+	<iostream>
+	<math.h>
+
+1585154983 e:\valy11\programare\c++\poo\vector_complex\include\vector_complex.h
+	<iostream>
+
