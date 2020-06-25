@@ -16,7 +16,6 @@ D.afisare();
 
 complex E=A*B;
 E.afisare();
-
 complex F=B/A;
 F.afisare();
 complex G(0,2);
